@@ -1,0 +1,12 @@
+{
+  "id": "google-meet",
+  "name": "Google Meet",
+  "version": "1.0.0",
+  "description": "Google Meet",
+  "main": "index.js",
+  "author": "Richard Wålander <richard.walander@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://meet.google.com/"
+  }
+}
